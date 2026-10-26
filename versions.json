@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "packageName": "cn.algoreader.app",
+  "releases": [
+    {
+      "versionName": "1.1.1",
+      "versionCode": 3,
+      "minSdk": 26,
+      "publishedAt": "2026-10-26T12:41:00Z",
+      "prerelease": false,
+      "notes": "CF／洛谷题面题解、中文翻译与离线阅读。此版本没有应用内更新器。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.1.1/algorithm-reader-1.1.1.apk",
+        "sha256": "21bee2f18791065125f63c75b9daf62cd5ecfb20c3195c890957aafdf9484c69",
+        "size": 2890435
+      }
+    }
+  ]
+}
