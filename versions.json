@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.1.2",
+      "versionCode": 4,
+      "minSdk": 26,
+      "publishedAt": "2026-10-26T15:19:32Z",
+      "prerelease": false,
+      "notes": "新增应用内版本选择、稳定版／测试版筛选、系统后台下载与校验后安装。首次从 1.1.1 需手动覆盖安装；本版沿用现有题库与阅读界面。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.1.2/algorithm-reader-1.1.2.apk",
+        "sha256": "67ee67c54352503428afd52ab7b66b485fdf9b6ca3332d87f5186547c160919f",
+        "size": 2971942
+      }
+    },
+    {
       "versionName": "1.1.1",
       "versionCode": 3,
       "minSdk": 26,
