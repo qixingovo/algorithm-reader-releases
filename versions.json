@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.2",
+      "versionCode": 7,
+      "minSdk": 26,
+      "publishedAt": "2026-10-27T03:50:34Z",
+      "prerelease": false,
+      "notes": "优化本地内容和题单管理面板，统一应用弹窗的圆角与配色。保留已有主题选择和数据；未进行功能测试或实机视觉验收。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.2/algorithm-reader-1.2.2.apk",
+        "sha256": "3e3111835a07d2346afb2e58e3cfd359cbfc35a596590a008b942d356c69e329",
+        "size": 3222616
+      }
+    },
+    {
       "versionName": "1.2.1",
       "versionCode": 6,
       "minSdk": 26,
