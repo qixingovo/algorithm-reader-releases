@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.1",
+      "versionCode": 6,
+      "minSdk": 26,
+      "publishedAt": "2026-10-27T03:30:07Z",
+      "prerelease": false,
+      "notes": "题单页调整为草图中的三来源布局；增加草图蓝与 1.1.1 经典绿配色切换，保留更新器。未进行功能测试或实机视觉验收；持久后台题目下载、账号同步及个人备份仍待开发。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.1/algorithm-reader-1.2.1.apk",
+        "sha256": "4cf4b6ae8361c0631079e3910ba66a8615abfe3f7018bdafe4a3b3ce99530dd9",
+        "size": 3216956
+      }
+    },
+    {
       "versionName": "1.2.0",
       "versionCode": 5,
       "minSdk": 26,
