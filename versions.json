@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.3",
+      "versionCode": 8,
+      "minSdk": 26,
+      "publishedAt": "2026-10-27T09:22:51Z",
+      "prerelease": false,
+      "notes": "修复 VJudge 已授权参赛者及管理员状态被误判为无权限。150 项本地单元测试通过；未在手机或已授权的私人比赛上验证。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.3/algorithm-reader-1.2.3.apk",
+        "sha256": "fbb804f62ecaf194b9c90e547c029bccb584791ece39126b9c85cad0cebdc809",
+        "size": 3036473
+      }
+    },
+    {
       "versionName": "1.2.2",
       "versionCode": 7,
       "minSdk": 26,
