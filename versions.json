@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.5",
+      "versionCode": 10,
+      "minSdk": 26,
+      "publishedAt": "2026-10-28T13:42:13Z",
+      "prerelease": false,
+      "notes": "新增个人数据备份与安全恢复、题面后台下载、CF 公开账号同步及通过标记。Android 14 及以上后台路径尚未实机验证。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.5/algorithm-reader-1.2.5.apk",
+        "sha256": "4b92e58c0a75d236f427ef7016cd615cd1487aeceb30e0f9f6cabeb83c45ff3e",
+        "size": 3157928
+      }
+    },
+    {
       "versionName": "1.2.4",
       "versionCode": 9,
       "minSdk": 26,
