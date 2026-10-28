@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.6-beta.2",
+      "versionCode": 12,
+      "minSdk": 26,
+      "publishedAt": "2026-10-28T16:03:20Z",
+      "prerelease": true,
+      "notes": "新增洛谷和 VJ 公开账号后台同步；VJ 仅显示近期提交，洛谷近期提交暂不可用。Android 14 以上后台任务、真实用户数据升级和界面视觉尚未实机验收。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.6-beta.2/algorithm-reader-1.2.6-beta.2.apk",
+        "sha256": "3cb7c9614431795bc1f96cc3ee2f4b8a64d2b70f68d302bcd51039054423fddf",
+        "size": 3192636
+      }
+    },
+    {
       "versionName": "1.2.5",
       "versionCode": 10,
       "minSdk": 26,
