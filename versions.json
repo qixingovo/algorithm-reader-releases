@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.7-beta.4",
+      "versionCode": 16,
+      "minSdk": 26,
+      "publishedAt": "2026-10-29T11:17:38Z",
+      "prerelease": true,
+      "notes": "新增题库与题单的通过状态筛选、可靠题号跨站关联，以及 VJ 赛后手动补题整理。VJ 比赛未通过题目尚不能自动识别。测试版，真实设备界面与覆盖安装尚待验证。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.7-beta.4/algorithm-reader-1.2.7-beta.4.apk",
+        "sha256": "ebed87dcf447b3c745c464a4ba20091c7a997458e3af2d56edaf58fba7d6897c",
+        "size": 3264824
+      }
+    },
+    {
       "versionName": "1.2.7-beta.3",
       "versionCode": 15,
       "minSdk": 26,
