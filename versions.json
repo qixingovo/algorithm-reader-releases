@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.7-beta.5",
+      "versionCode": 17,
+      "minSdk": 26,
+      "publishedAt": "2026-10-29T11:37:34Z",
+      "prerelease": true,
+      "notes": "突出题单通过状态筛选，显示当前条件；移除题库和题单的账号同步时间；添加题单或比赛的区域支持收起并记住状态。VJ 赛后补题仍需手动整理。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.7-beta.5/algorithm-reader-1.2.7-beta.5.apk",
+        "sha256": "543f8ec12da79589d0c3d9eff8a589296cc56e3c7c2f23d5b9fa13ef21570567",
+        "size": 3265444
+      }
+    },
+    {
       "versionName": "1.2.7-beta.4",
       "versionCode": 16,
       "minSdk": 26,
