@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.7-beta.3",
+      "versionCode": 15,
+      "minSdk": 26,
+      "publishedAt": "2026-10-29T09:10:25Z",
+      "prerelease": true,
+      "notes": "新增未分类题目整理和批量归类，补充算法分类及标签匹配；优化分类、知识树和组合筛选。测试版，真实设备覆盖安装与视觉效果尚待验证。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.7-beta.3/algorithm-reader-1.2.7-beta.3.apk",
+        "sha256": "4f6bfc3f5a09444e03c9923709f0112aaf15ad0a0b8598abaf4a14a3b5ddae22",
+        "size": 3225456
+      }
+    },
+    {
       "versionName": "1.2.7-beta.2",
       "versionCode": 14,
       "minSdk": 26,
