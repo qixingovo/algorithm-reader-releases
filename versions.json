@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.7-beta.1",
+      "versionCode": 13,
+      "minSdk": 26,
+      "publishedAt": "2026-10-29T02:37:10Z",
+      "prerelease": true,
+      "notes": "新增照片子域名更新渠道及 GitHub 备用源。更新渠道尚需在平板上验证。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.7-beta.1/algorithm-reader-1.2.7-beta.1.apk",
+        "sha256": "4d355aa0c418b7ff3fc3c7ade0e7facf951e1a9490cdc2d0ea819455340bb4f0",
+        "size": 3195776
+      }
+    },
+    {
       "versionName": "1.2.6-beta.2",
       "versionCode": 12,
       "minSdk": 26,
