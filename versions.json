@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.1",
+      "versionCode": 18,
+      "minSdk": 26,
+      "publishedAt": "2026-10-30T11:42:08Z",
+      "prerelease": true,
+      "notes": "新增 Supabase 跨设备同步测试：同步题单目录、顺序和公开 OJ 账号标识；题面题解按设备下载。本版可直接覆盖日常版。首次注册使用登录 Supabase 的同一邮箱；真实邮件和双设备同步待实测，找回密码尚未实现。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.1/algorithm-reader-1.2.8-beta.1.apk",
+        "sha256": "2354b4f05f9dc545b51bc6917eea50ac54c89dc96d73423d96e6767fe788ec8b",
+        "size": 3341524
+      }
+    },
+    {
       "versionName": "1.2.7-beta.5",
       "versionCode": 17,
       "minSdk": 26,
