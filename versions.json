@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.2",
+      "versionCode": 19,
+      "minSdk": 26,
+      "publishedAt": "2026-10-31T01:56:40Z",
+      "prerelease": true,
+      "notes": "新增“忘记密码”邮件找回入口；登录错误区分邮箱密码不匹配、邮箱未确认、限流和网络错误。修复认证邮件确认后的 localhost 跳转。密码在浏览器中由用户自行设置；跨设备同步继续提供测试。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.2/algorithm-reader-1.2.8-beta.2.apk",
+        "sha256": "f8afa3e4e465e6fe841e7294bafefd792ad81f002f6de3e128d4bcabd65b7403",
+        "size": 3343812
+      }
+    },
+    {
       "versionName": "1.2.8-beta.1",
       "versionCode": 18,
       "minSdk": 26,
