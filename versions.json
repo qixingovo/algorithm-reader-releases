@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.3",
+      "versionCode": 20,
+      "minSdk": 26,
+      "publishedAt": "2026-10-31T15:59:41Z",
+      "prerelease": true,
+      "notes": "新增同步 HTTPS 备用线路：直连不可用时自动尝试照片域名中转，继续使用原账号与云端数据。登录、令牌刷新及题单/OJ 账号标识同步共用线路；不强制下载题面题解。防止网络中断后自动重复提交认证请求；刷新结果无法确认时要求重新登录。密码找回页使用同域中转；邮件内原始验证链接暂未调整。手机和平板关闭代理后的实际登录与双设备同步待用户验收。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.3/algorithm-reader-1.2.8-beta.3.apk",
+        "sha256": "c711ae30483fa0bef2ca0f3709e3cd569870390fc967bf41714324cfbd438838",
+        "size": 3447952
+      }
+    },
+    {
       "versionName": "1.2.8-beta.2",
       "versionCode": 19,
       "minSdk": 26,
