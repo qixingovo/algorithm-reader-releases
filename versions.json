@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.4",
+      "versionCode": 21,
+      "minSdk": 26,
+      "publishedAt": "2026-11-05T01:07:24Z",
+      "prerelease": true,
+      "notes": "修正 DeepSeek 长文本翻译长时间等待：官方接口显式关闭思考模式；对持续保活响应增加累计等待检查；请求超时后明确提示并停止自动重发。保留原文与已有译文。348 项单元测试通过，真实手机翻译待用户验收。免代理云同步故障仍未解决。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.4/algorithm-reader-1.2.8-beta.4.apk",
+        "sha256": "20d7831342b22f5e75d1109ff529aaf2c40560a30d7753bef7b20be80e8535f4",
+        "size": 3348400
+      }
+    },
+    {
       "versionName": "1.2.8-beta.3",
       "versionCode": 20,
       "minSdk": 26,
