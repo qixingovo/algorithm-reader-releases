@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.5",
+      "versionCode": 22,
+      "minSdk": 26,
+      "publishedAt": "2026-11-05T04:22:55Z",
+      "prerelease": true,
+      "notes": "CF 阅读页的「题解」内新增「AI 题解」，与原站题解并列。支持中文完整讲解与 C++17、可选三级提示、后台生成与取消、离线保存、来源标记和备份恢复；不自动重发付费生成。367 项单元测试与隔离模拟器界面验证通过，真实接口生成待用户验收。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.5/algorithm-reader-1.2.8-beta.5.apk",
+        "sha256": "7fee073dc5f41a734def555d9bbd1850824f88d41edbc23f5a408be9329d05e4",
+        "size": 3381739
+      }
+    },
+    {
       "versionName": "1.2.8-beta.4",
       "versionCode": 21,
       "minSdk": 26,
