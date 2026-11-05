@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.6",
+      "versionCode": 23,
+      "minSdk": 26,
+      "publishedAt": "2026-11-05T13:48:44Z",
+      "prerelease": true,
+      "notes": "修复 CF 题解将 Tutorial is loading 占位内容误存为完整正文的问题。提取等待所有讲解完成，超时保留旧内容；已保存的缺失题解可点击重新获取。372 项单元测试及 Android 12 隔离动态页面验证通过；原文 158495 受 CF 验证阻挡，实际站点加载待试用确认。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.6/algorithm-reader-1.2.8-beta.6.apk",
+        "sha256": "62fff0873bed3c567bd20ea16ed8150391f80c3be6de8056bb429fe5f94f8014",
+        "size": 3385587
+      }
+    },
+    {
       "versionName": "1.2.8-beta.5",
       "versionCode": 22,
       "minSdk": 26,
