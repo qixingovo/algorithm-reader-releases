@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.9",
+      "versionCode": 26,
+      "minSdk": 26,
+      "publishedAt": "2026-11-07T06:35:47Z",
+      "prerelease": true,
+      "notes": "修复 CF 加粗、斜体段落和小节标题被误当成公式跳过翻译的问题。保留真正的公式、代码、等宽输入标记和样例；中文阅读优先显示已翻译的 CF 题名。旧译文仍需选择“更多 → 重新翻译当前内容”。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.9/algorithm-reader-1.2.8-beta.9.apk",
+        "sha256": "a008c31be45f3ca6c9e99d01907235240f35c10c01460e2526de8c5ca83b8afd",
+        "size": 3391323
+      }
+    },
+    {
       "versionName": "1.2.8-beta.8",
       "versionCode": 25,
       "minSdk": 26,
