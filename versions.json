@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.7",
+      "versionCode": 24,
+      "minSdk": 26,
+      "publishedAt": "2026-11-07T04:54:01Z",
+      "prerelease": true,
+      "notes": "针对 CF 2284D/E 翻译空译文、缺少编号的反馈优化翻译：标点数字原样保留，每批限制段落数量；部分漏译时仅补全缺失段落，每批一次、整篇最多两次。补全仍失败则保留原文及旧译文；识别输出截断，超时不自动重发。381 项单元测试通过；尚未调用用户真实 DeepSeek 接口验收这两题。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.7/algorithm-reader-1.2.8-beta.7.apk",
+        "sha256": "d9bc4e70e5a79abac4eda6976cca68e92a78181ba3adb965d4e302801acff121",
+        "size": 3387631
+      }
+    },
+    {
       "versionName": "1.2.8-beta.6",
       "versionCode": 23,
       "minSdk": 26,
