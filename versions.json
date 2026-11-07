@@ -3,6 +3,19 @@
   "packageName": "cn.algoreader.app",
   "releases": [
     {
+      "versionName": "1.2.8-beta.8",
+      "versionCode": 25,
+      "minSdk": 26,
+      "publishedAt": "2026-11-07T05:29:06Z",
+      "prerelease": true,
+      "notes": "修复模型原样返回整段英文却被当成中文译文的问题。识别明显未翻译的英文叙述、常见小节标题，定向补翻并再次检查；保留缩写、变量、公式、代码和样例。每批最多一次、每篇最多两次补全。385 项单元测试通过；真实 DeepSeek 返回仍待试用确认。旧译文须从更多菜单重新翻译。",
+      "apk": {
+        "url": "https://github.com/qixingovo/algorithm-reader-releases/releases/download/v1.2.8-beta.8/algorithm-reader-1.2.8-beta.8.apk",
+        "sha256": "a3e11e0aa6b9f01e016339290a75a28115a23d88e3b64209b90df29b3518fc5b",
+        "size": 3418209
+      }
+    },
+    {
       "versionName": "1.2.8-beta.7",
       "versionCode": 24,
       "minSdk": 26,
